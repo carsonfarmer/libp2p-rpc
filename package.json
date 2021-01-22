@@ -1,6 +1,6 @@
 {
   "name": "@nullify/libp2p-rpc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bi-directional RPC over libp2p streams",
   "main": "src/index.js",
   "types": "types/index.d.ts",
