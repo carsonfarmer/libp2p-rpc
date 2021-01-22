@@ -1,0 +1,7 @@
+types
+node_modules
+.vscode
+.nyc_output
+coverage
+.libp2p
+docs
